@@ -1,28 +1,40 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Sócio Proprietário
+  time: 11/2014 - 03/2018
+  company: Nortti Sistemas
+  details: "Principais atividades: Atividades administrativas, prototipação e criação de layouts, Desenvolvimento Web front-end (HTML, CSS, Javascript), Desenvolvimento Web back-end utilizando PHP (CodeIgniter, Laravel) e MySQL, Desenvolvimento de sites utilizando o CMS Wordpress e gerenciamento de mídias sociais."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Auxiliar de pesquisa
+  time: 04/2016 - 04/2017
+  company: Projeto Atlas do Desenvolvimento Humano - IPEA
+  details: "Principais atividades: Desenvolvimento Web front-end (HTML, CSS e Javascript) e Desenvolvimento Web back-end utilizando PHP e MySQL)."
+  - experience:
+  role: Estagiário
+  time: 06/2014 - 09/2014
+  company: Tectotum Tecnologia
+  details: "Criação de layouts, Desenvolvimento Web front-end (HTML, CSS, Javascript) e Desenvolvimento Web back-end utilizando PHP (CodeIgniter) e MySQL."
+  - experience:
+  role: Consultor Técnico
+  time: 04/2013 - 04/2014
+  company: Fiber Consulting
+  details: "Principais atividades: Desenvolvimento Web front-end utilizando as linguagens HTML, CSS e Javascript(avançado) e back-end utilizando JAVA e PostgreSQL."
+  - experience:
+  role: Consultor Técnico
+  time: 12/2012 - 03/2013
+  company: Agência Flybuzz Comunicação
+  details: "Principais atividades: Criação de layouts, Desenvolvimento Web front-end, Desenvolvimento de sites utilizando os CMS Joomla e Wordpress e gerenciamento de mídias sociais."
+  - experience:
+  role: Diretor Administrativo
+  time: 11/2012 - 11/2013
+  company: INFOBITS – Empresa júnior do Curso de Sistemas de Informação
+  details: "Principais atividades: Atividades administrativas, prototipação e criação de layouts, desenvolvimento Web front-end utilizando as linguagens HTML, CSS e Javascript e desenvolvimento Web back-end utilizando PHP (CodeIgniter) e MySQL."
+  - experience:
+  role: Webdesigner
+  time: 12/2011 - 04/2012
+  company: Agência Seven
+  details: "Principais atividades: Criação de layouts e Desenvolvimento Web front-end (HTML, CSS e Javascript)."
+  - experience:
+  role: Estagiário
+  time: 12/2010 - 12/2011
+  company: DTI – Diretoria de Tecnologia da Informação - UNIMONTES
+  details: "Principais atividades: Suporte em Geral, Montagem e Manutenção de Equipamentos de Informática e Montagem e Manutenção de Redes."
