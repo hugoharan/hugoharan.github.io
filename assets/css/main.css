@@ -653,7 +653,7 @@ header {
     margin: 30px 30px 30px; }
     header nav a {
       margin-left: 20px;
-      color: rgba(0, 0, 0, 0.5); }
+      color: #FFFFFF; }
       @media only screen and (min-width: 220px) {
         header nav a {
           display: none; } }
@@ -661,10 +661,10 @@ header {
         header nav a {
           display: inline-block; } }
       header nav a:hover {
-        color: black; }
+        color: #f1f1f1; }
   header h1 {
     text-align: center;
-    color: rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
     text-transform: uppercase;
     letter-spacing: 0.05cm;
     margin-bottom: 20px;
@@ -687,7 +687,8 @@ header {
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
-      border: rgba(0, 0, 0, 0.5) solid 10px; }
+      border: #FFF solid 10px;
+    text-shadow: 2px 3px 5px #000; }
       @media only screen and (min-width: 220px) {
         header h1 span {
           padding: 0.2em 0.5em; } }
